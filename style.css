@@ -1613,7 +1613,7 @@ header {
 }
 
 .wavey {
-  background-image: url(./images/side-wave_background.svg);
+  background-image: url(images/side-wave_background.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1942,7 +1942,7 @@ header {
   color: var(--palette-color2);
 }
 .courses-about {
-  background-image: url(./images/split_background.svg);
+  background-image: url(images/split_background.svg);
   background-size: cover;
   background-position: center;
   min-height: 30rem;
